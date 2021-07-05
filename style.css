@@ -36,12 +36,15 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    align-items: center;
+    padding: 20px;
 }
 
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    align-items: center;
 }
 .experience-area{
     background-image: url(images/exp-bg.png);
